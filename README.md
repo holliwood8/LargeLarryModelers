@@ -297,19 +297,8 @@ This 30+ year longitudinal dataset represents:
 - Demonstration of how measurement technologies have evolved
 - Proof-of-concept for personalized biological monitoring
 
-### Contributing
-Students are encouraged to:
-- Fork the repository and experiment with different analysis approaches
-- Extend the analysis with additional statistical methods
-- Create new visualizations to explore different aspects of the data
-- Apply similar methods to other biological datasets
-- Share improvements and novel analytical approaches
-
 ### Contact
 - **Instructor**: Dr. Benjamin Smarr (bsmarr@ucsd.edu)
-
-### Acknowledgments
-Special thanks to LS (Larry Smarr) for the extraordinary commitment to longitudinal biological data collection since 1993, creating this invaluable resource for systems biology education and research.
 
 ### License
 This educational material is provided for academic use in BENG 211.
