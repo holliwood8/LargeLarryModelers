@@ -307,7 +307,6 @@ Students are encouraged to:
 
 ### Contact
 - **Instructor**: Dr. Benjamin Smarr (bsmarr@ucsd.edu)
-- **Teaching Assistant**: Jamie Burks (jburks@ucsd.edu)
 
 ### Acknowledgments
 Special thanks to LS (Larry Smarr) for the extraordinary commitment to longitudinal biological data collection since 1993, creating this invaluable resource for systems biology education and research.
