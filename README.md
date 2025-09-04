@@ -248,16 +248,6 @@ A core component of this project is learning to use essential **Python data scie
 
 These tools form the **standard toolkit for computational biology and bioinformatics**, preparing students for advanced coursework and research in systems biology, bioengineering, and data-driven biological discovery.
 
-### Course Relevance
-This analysis directly supports several topics covered in BENG 211:
-
-- **Week 3b: Quantitative analysis of gene expression** - Statistical methods for biological data
-- **Week 7b: Rhythms in transcription and translation** - Temporal patterns in biological systems
-- **Week 8a: Proteomic analysis** - Protein biomarker interpretation
-- **Week 8b: Metabolomics** - SCFA and metabolic biomarker analysis
-- **Week 9: Microbiomes and you** - Comprehensive gut microbiome time series analysis
-- **Systems-level integration** - Understanding how molecular components interact over time
-
 ### Learning Outcomes for Student Projects
 After studying this analysis, students will be able to:
 
@@ -279,7 +269,6 @@ After studying this analysis, students will be able to:
 - Design data collection strategies for biological research
 - Create reproducible analysis workflows
 - Document and communicate biological insights effectively
-- Apply similar methods to novel biological datasets
 
 ### For Student Projects
 **Use this repository as your starting template for biological data analysis projects.** The workflows demonstrated here can be adapted for:
@@ -299,6 +288,7 @@ This 30+ year longitudinal dataset represents:
 
 ### Contact
 - **Instructor**: Dr. Benjamin Smarr (bsmarr@ucsd.edu)
+- **Me**: Conan Minihan (jrminihan@ucsd.edu)
 
 ### License
 This educational material is provided for academic use in BENG 211.
